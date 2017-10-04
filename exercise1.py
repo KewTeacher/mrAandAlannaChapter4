@@ -34,7 +34,7 @@ wn = make_window("lightgreen","squares")
 
 ess = make_turtle("blue",5)
 
-for in range(4):
+for i in range(5):
     make_square(ess,30)
 
 
